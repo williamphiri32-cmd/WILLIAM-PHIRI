@@ -1,0 +1,26 @@
+{
+  "id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+  "name": "Ministry of Health",
+  "publisher": "William Phiri",
+  "version": "1.0.0.0",
+  "brief": "Ministry of Health Management System",
+  "description": "A Business Central extension for managing Ministry of Health operations including patient records, staff management, and health facility administration.",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "22.0.0.0",
+  "application": "22.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "",
+  "showMyCode": true,
+  "runtime": "11.0"
+}
